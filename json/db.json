@@ -1,0 +1,222 @@
+{
+  "bg":[
+    {
+      "url":"https://static.cdn.asset.filimo.com/ct/tr17m_desktop_1_v1.jpeg"
+},
+{
+ 
+  "url":"https://static.cdn.asset.filimo.com/ct/hsvzb_desktop_1_v1.jpeg"
+},
+{
+ 
+  "url":"https://static.cdn.asset.filimo.com/ct/jlbg6_desktop_1_v1.jpeg"
+},
+{
+  
+  "url":"https://static.cdn.asset.filimo.com/ct/g603p_desktop_1_v1.jpeg"
+}
+  ],
+  "movies": [
+    {
+      "id": "1",
+
+      "banner": "https://static.cdn.asset.filimo.com/flmt/mov_145612_153992.jpg?width=165&quality=85&secret=HoUepfbO2EQ6sOFAuqtJKw",
+      "title": "شب های مافیا: زودیاک ",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_137093_589.png?width=400&quality=85&secret=n9AW7B2hhMceD8DJwgLBHA",
+      "dic": "محمدرضا رضائیان",
+      "dec": "«شب های مافیا»، گیم شوی جذابی است که در آن یک قاتل سریالی به نام «زودیاک»، شهروندان و مافیای سیسیل را هدف قرار می دهد. در این برنامه محمد بحرانی نقش گرداننده بازی را بر عهده دارد.",
+      "background": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145612_207.jpg?width=1920&quality=80&secret=6pwbepXRS9PzzEqpxEyUtg"
+    },
+    {
+      "id": "2",
+
+      "banner": "https://static.cdn.asset.filimo.com/flmt/mov_145605_153961.jpg?width=165&quality=85&secret=jETpOJVdG8KFVxph9tQEjA",
+      "title": "گناه فرشته ",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_141218_814.png?width=400&quality=85&secret=_KlqyGGLszs_4kQSVkAXqg",
+      "dic": " حامد عنقا",
+      "dec": "چند ساعت دیگه میرم برای قصاص و دیگه همه چی تموم میشه.",
+      "background": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145605_567.jpg?width=1920&quality=80&secret=gUei1BOL1WrHepHQj73-5w"
+    },
+    {
+      "id": "3",
+
+      "banner": "https://static.cdn.asset.filimo.com/flmt/mov_145856_155500.jpg?width=165&quality=85&secret=4xREJ07MQ1Z9Y2QJ04otlQ",
+      "title": "عیدی HD  ",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_145726_983.png?width=400&quality=85&secret=venvOlcgeDBHtN4UwJ0rkQ",
+      "dic": "امین کفاش زاده",
+      "dec": "وقتی یک کمدین روبروی چهره‌های دوست داشتنی و خبرساز هنری و فضای مجازی میشینه، نمیشه انتظار یه گفتگوی معمولی داشت.  عیدی اچ دی با اجرای امیرحسین قیاسی غیرمعمولی و غیرقابل پیش‌بینی",
+      "background": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145856_457.jpg?width=1920&quality=80&secret=jRIykGzp1Goz3eMSgiR1FQ"
+    },
+    {
+      "id": "4",
+
+      "banner": "https://static.cdn.asset.filimo.com/flmt/mov_146014_154959.jpg?width=165&quality=85&secret=M1mahNLUrLmCXNXn6XzwVQ",
+      "title": "اسکار",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_142032_381.png?width=400&quality=85&secret=rF6-vLzIh5uZAlpgNKSqOQ",
+      "dic": "مهران مدیری",
+      "dec": "پنجمین فصل اسکار آغاز شد. مهمان‌های این فصل، بهنام تشکر، نعیمه نظام دوست، محمدرضا هدایتی و سمیرا حسن‌پور هستند که با یکدیگر برای مجسمه اسکار به رقابتی دلنشین می‌پردازند. اسکار، یک رئالیتی شوی چالش محور و محصولی از شرکت ویستا مدیا است.",
+      "background": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_146014_443.jpg?width=1920&quality=80&secret=-vlERkd40jF7DQ20tM5vBQ"
+    },
+    {
+      "id": "5",
+
+      "banner": "https://static.cdn.asset.filimo.com/flmt/mov_145608_153940.jpg?width=165&quality=85&secret=0H_TrkoAh3TE32TEslpe1w",
+      "title": "صداتو ",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_134635_963.png?width=400&quality=85&secret=O9DSxuBguojV_Nk2Y8nywQ",
+      "dic": " حامد جوادزاده",
+      "dec": "«صداتو»، یک مسابقه موسیقایی پرمعما و جذاب است که محسن کیایی با چهره ای متفاوت اجرای آن را به عهده دارد. چهره های آشنایی مانند شبنم مقدمی، محمد بحرانی، محسن شریفیان، و امیرمهدی ژوله قرار است شرکت کنندگان را در این مسابقه سرگرمی راهنمایی کنند. فضای معمایی و موزیکال برنامه، اتفاقات هیجان انگیز و بی سابقه ای را برای تماشاگران و افراد حاضر در مسابقه رقم می زند و تنوع موسیقایی ایرانی و شرقی «صداتو»، مخاطبان را با طرح خاص و رنگ و لهجه‌ای تازه‌ مواجه می کند.",
+      "background": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_145608_468.jpg?width=1920&quality=80&secret=Wsmi0ilJ4RLMrPznQcQLcw"
+    },
+    {
+      "id": "5",
+
+      "banner": "https://static.cdn.asset.filimo.com/flmt/mov_148098_181296.jpg?width=165&quality=85&secret=gd0DfcV32I-fQf3tFxj31A",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_148098_610.png?width=400&quality=85&secret=FkIlWP3F5cp3Kr8c7XExKQ",
+      "title": "ستون ۱۴",
+      "dic": "امیرحسین همتی",
+      "dec": "ساناز و یاشار وقتی می ترسند، بازی می کنند، این بار با زندگی جلال.",
+      "background": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_148098_727.jpg"
+    }
+  ],
+  "series": [
+    {
+      "id": "1",
+      "imageUrl": "https://static.cdn.asset.filimo.com/flmt/mov_148957_184716.jpg?width=165&quality=85&secret=fi1bx8eV__KT8e22zSHpsA",
+      "title": "زخم کاری: انتقام",
+      "logo":"https://static.cdn.asset.filimo.com/flmt/mov_logo_85436_913.png?width=400&quality=85&secret=kfquje7CjB2ggH6NkCDnEA",
+      "dic": " محمدحسین مهدویان",
+      "dec": "مالک در تله ی سمیرا گرفتار می شود، او با همراهی سیما تلاش می کند تا بازی را به نفع خود تغییر دهد. مالک سراغ یکی از نزدیکان طلوعی می رود تا او را علیه طلوعی تحریک کند. در این اثنا ردی از اسناد و مدارک فساد طلوعی پیدا می شود",
+      "background":"https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149097_183.jpg"
+    },
+    {
+        "id": "2",
+        "imageUrl": "https://static.cdn.asset.filimo.com/flmt/mov_149062_184792.jpg?width=165&quality=85&secret=eil4CBiFdsrOBT9cx4hRow",
+        "title": "گل یا پوچ",
+        "logo":"https://static.cdn.asset.filimo.com/flmt/mov_logo_148679_584.png?width=400&quality=85&secret=_iSarti-Bye4xXQllTrzeg",
+        "dic": "مهران مدیری",
+        "dec": "اگه یک قدمی شکست هم بودی، لبخند بزن تا حریفت به پیروزیش شک کنه!",
+        "background":"https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149062_275.jpg"
+      },
+      {
+        "id": "3",
+        "imageUrl": "https://static.cdn.asset.filimo.com/flmt/mov_148388_184609.jpg?width=165&quality=85&secret=l4n6AAnuDcKqn1LS5h9D7w",
+        "title": "جوکر ۲",
+        "logo":"https://static.cdn.asset.filimo.com/flmt/mov_logo_147471_422.png?width=400&quality=85&secret=FMgCE2mroMFjVb21WIYa-g",
+        "dic": "احسان علیخانی",
+        "dec": "وقتی سیروس میمنت با غلامرضا نیکخواه تیم میشن حتی اگه مراسم ختم هم برگزار کنن خنده داره! ",
+        "background":"https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149096_345.jpg"
+      },
+      {
+        "id": "4",
+        "imageUrl": "https://static.cdn.asset.filimo.com/flmt/mov_149193_185131.jpg?width=165&quality=85&secret=KdzvEJoGnLxwxKewJATtuA",
+        "title": "پسر دلفینی",
+        "logo":"https://static.cdn.asset.filimo.com/flmt/mov_logo_145135_980.png?width=400&quality=85&secret=fVJ6iCuhyJk2Wsj-jNRmmA",
+        "dic": "رضا فصاحت",
+        "dec": "ماهی ها در حال توپ بازی جلوی در غار هستند که توپ آن ها پنجر می شود و از بادی به جای توپ استفاده می کنند. هشت پا که از صدای بازی ماهی ها کلافه شده برای ساکت کردن آن ها شامی را پرت می کند. شامی در حال پرت شدن با بادی برخورد می کند و داخل غار می افتد. دردسری درست می شود و پسر دلفینی باید وارد عمل شود.",
+        "background":"https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149193_293.jpg"
+      },
+      {
+        "id": "5",
+        "imageUrl": "https://static.cdn.asset.filimo.com/flmt/mov_149058_184625.jpg?width=165&quality=85&secret=w4gvljdosiqa_U8a9M5u4g",
+        "title": "لالایی",
+        "logo":"",
+        "dic": "احمد درویشعلی پور",
+        "dec": "خانم گلشن مدتهاست در فقدان دوستش الهه که مدیر موسسه گلشنِ جاوید بوده،حال و روز خوشی ندارد،از سویی دیگر بچه های موسسه هم روزگار آشفته ای دارند و به هر کاری متوسل می شوند تا گلشن پایش به موسسه نرسد،این چالش بچه ها و گلشن را وارد مسیر تازه ای میکند.",
+        "background":"https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149058_700.jpg"
+      },
+      {
+        "id": "6",
+        "imageUrl": "https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149092_292.jpg?width=1920&quality=80&secret=cdDPg-eVD0kk91mJDGB91g",
+        "title": "سرگیجه",
+        "logo":"https://static.cdn.asset.filimo.com/flmt/mov_logo_147881_512.png?width=400&quality=85&secret=s0NqtSV6Fv8O7QJgUXCuyQ",
+        "dic": "محمد حاتمی",
+        "dec": "همیشه می گن زمین گرده. یعنی اگه بدی کنی، بدی می بینی. اما توی سرگیجه همه چی تخته، حتی زمین! توی قسمت اول فصل سوم، قراره همه ضربه فنی بشن و زمین بخورن.",
+        "background":"https://static.cdn.asset.filimo.com/flmt/mov_cvr_filimo_hor_149092_292.jpg?width=1920&quality=80&secret=cdDPg-eVD0kk91mJDGB91g"
+      }
+  ],
+ "comments": [
+    {
+      "id": 1,
+      "name": "Mohammad",
+      "comment": "خیلی خوبه تازه فیلم های 2021 رو هم با دوبله داره "
+    },
+    {
+      "id": 2,
+      "name": "Amir",
+      "comment":
+        "بسیار خوب و مناسب برای فیلم دیدن و انجام کارهای روزمره، نسبت به سایر اندروید باکس‌ها و نسبت به قیمتش خیلی مناسبه"
+    },
+    {
+      "id": 3,
+      "name": "Sara",
+      "comment":
+        "عالیییبیبیییییییی پیشنهاد میکنم نصب کنید فیلم های رایگان هم داره پس نصب کنید 🤗🤗"
+    },
+    {
+      "id": 4,
+      "name": "Ali",
+      "comment":
+        "واقعا عالیه.😚 خیلی برنامه عالیه😻😻 من ۵ سال این برنانه رو دارم...🌹 درسته یکم اشتراکاش گرونه ولی هنوزم خوبه.💙❤ ولی اینترنتش نیمبهاست🌹🌹😻 ممنون از برنامه ی خوبتون🌹❤"
+    },
+    {
+      "id": 5,
+      "name": "Erfan",
+      "comment":
+        " عالی، می‌تونی هر فیلمی رو با دوبله و زیرنویس فارسی تماشا کنی. تازه فیلیمو کیفیت پخش آنلاین رو با سرعت اینترنت تنظیم می‌کنه تا بدون توقف فیلم ببینی. دسته‌بندی هم داره و قیمت اشتراکش نسبت به برنامه‌های مشابه خارجی خیلی ارزونتره و ساخت حساب کاربری هم رایگانه. پیشنهاد می‌کنم حتما این برنامه رو نصب کنید."
+    },
+    {
+      "id": 6,
+      "name": "Hossien",
+      "comment":
+        "همه نصب کنید. رایگان هم داره، با پول هم داره. همه ی فیلم های :کمدی، اکشن، درام،عاشقانه،ترسناک و کارتون توش موجود هست . پر از هیجان و شگفتی😎🥸🤓🤠👍🏻👍🏻👍🏻"
+    }
+  ],
+  "freeContent": [
+    {
+      "id": 1,
+      "name": "پایتخت",
+      "imgUrl": "https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&secret=TTVEtvEcur7pOH0IgDJRhw" 
+    },
+    {
+      "id": 2,
+      "name": "عقرب",
+      "imgUrl":
+        "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&secret=U80oEojsjv7n8SfJm-7rMQ"
+    },
+    {
+      "id": 3,
+      "name": "ملکه گذایان",
+      "imgUrl":
+        "https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&secret=iCCdAosM5VpIaQc_eFKHAA"
+    },
+    {
+      "id": 4,
+      "name": "ویرانگر",
+      "imgUrl":
+        "https://static.cdn.asset.filimo.com/flmt/mov_6121_429-b.jpg?width=165&quality=85&secret=2qZQaxdMnv53hxHAJB2RgQ"
+    },
+    {
+      "id": 5,
+      "name": "شاهرگ",
+      "imgUrl":
+        "https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ"
+    },
+    {
+      "id": 6,
+      "name": "بالشها",
+      "imgUrl":
+        "https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&secret=T7uBxOIOJlPMJv1V6Ltu7Q"
+    },
+    {
+      "id": 7,
+      "name": "حماسه دره شیلر",
+      "imgUrl":
+        "https://static.cdn.asset.filimo.com/flmt/mov_17637_916-b.jpg?width=165&quality=85&secret=Y1OuacY3TaQCzdi43YaqzA"
+    },
+    {
+      "id":8,
+      "name":"راز دشت تاران",
+      "imgUrl":"https://static.cdn.asset.filimo.com/flmt/mov_11388_20029-b.jpg?width=165&quality=85&secret=63cTB6TyuLfmAR5Bqs4pKw"
+    }
+  ]
+}
